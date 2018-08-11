@@ -1,0 +1,13 @@
+283 commonality.xml
+443 variability.xml
+8 decisionmodel.xml
+1 featureinteraction.xml
+21 featuredependencies.xml
+33 featuremodel.xml
+2 fop.xml
+351 productline.xml
+124 productfamily.xml
+4 variationpoint.xml
+750 conditionalcompilation.xml
+9934 ifdef.xml
+18446 ifndef.xml
