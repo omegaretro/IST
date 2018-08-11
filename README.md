@@ -46,4 +46,4 @@ With RQ7 we intend to answer which are the questions answered and which are not 
 ![Alt Text](https://github.com/omegaretro/StOv/blob/master/Diagrama1.png)
 ![Alt Text](https://github.com/omegaretro/StOv/blob/master/Diagrama2.png)
 
-
+* teste
