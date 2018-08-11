@@ -44,8 +44,8 @@ With RQ7 we intend to answer which are the questions answered and which are not 
 
 ## Research Design
 ![Image of Diagram 1](https://github.com/omegaretro/StOv/blob/master/Diagrama1.png)
-<img src="https://github.com/omegaretro/StOv/blob/master/Diagrama1.png" />
+//<img src="https://github.com/omegaretro/StOv/blob/master/Diagrama1.png" />
 ![Image of Diagram 2](https://github.com/omegaretro/StOv/blob/master/Diagrama2.png)
-<img src="https://github.com/omegaretro/StOv/blob/master/Diagrama2.png" />
+//<img src="https://github.com/omegaretro/StOv/blob/master/Diagrama2.png" />
 
 
