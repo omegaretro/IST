@@ -13,31 +13,31 @@ Marco A. Paranhos Silva, Jonatas Ferreira Bastos, Paulo Anselmo da Mota Silveira
 
 ## Reseach Questions
 
-*RQ1: What are the hot-topics that describe the answered questions related to variability implementation mechanisms in Stack Overflow?*
+### RQ1: What are the hot-topics that describe the answered questions related to variability implementation mechanisms in Stack Overflow?
 
 This RQ aims to investigate the topics that represent technical concerns in the questions with accepted answers that the community of Stack Overflow software developers faces in the implementation of variability.
 
-*RQ2: What are the hot-topics that describe the unanswered questions related to variability implementation mechanisms in Stack Overflow?*
+### RQ2: What are the hot-topics that describe the unanswered questions related to variability implementation mechanisms in Stack Overflow?*
 
 This question considers unanswered questions because we are also interested in topics related to problems and techniques that do not have accepted answers. This indicates that Stack overflow developers face still unsolved difficulties in implementing variability.
 
-*RQ3: Do mechanisms of variability exist that are  discussed by the Stack overflow community?*
+### RQ3: Do mechanisms of variability exist that are  discussed by the Stack overflow community?
 
 In this question we will investigate if there are variability implementation mechanisms discussed by the Stack overflow community and what are they
 
-*RQ4: What are the techniques related to variability implementation mechanisms most discussed in Stack overflow?*
+### RQ4: What are the techniques related to variability implementation mechanisms most discussed in Stack overflow?
 
 With RQ4, we intend to identify whether variability implementation techniques are most found in the Stack Overflow developer community discussions.
 
-*RQ5: What are the mechanisms of variability implementation not discussed by the Stack overflow community?*
+### RQ5: What are the mechanisms of variability implementation not discussed by the Stack overflow community?
 
 With RQ5 we will define if the techniques of implementation of variability that are little discussed in Stack overflow represent those that in practice are also little used.
 
-*RQ6: How fast is the crowd at covering widely variability implementation mechanisms?*
+#### RQ6: How fast is the crowd at covering widely variability implementation mechanisms?
 
 With this question we will analyze the speed with which the Stack overflow community answers the questions related to the implementation of variability.
 
-*RQ7: Can we rely on the stack overflow crowd?*
+### RQ7: Can we rely on the stack overflow crowd?
 
 With RQ7 we intend to answer which are the questions answered and which are not answered in the context of implementation of variability, as well as to understand what are the reasons for the questions not being answered.
 
