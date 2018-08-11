@@ -43,10 +43,11 @@ With RQ7 we intend to answer which are the questions answered and which are not 
 
 
 ## Research Design
-
+<p>
 * Diagrama - 1
 ![Image of Diagram 1](https://github.com/omegaretro/StOv/blob/master/Diagrama1.png)
 
 * Diagrama - 2
 ![Image of Diagram 2](https://github.com/omegaretro/StOv/blob/master/Diagrama2.png)
 
+</p>
