@@ -1,0 +1,7 @@
+Reputation range,Asker,Respondents   
+reputation $<$ 50,431,130
+reputation $>$= 50 AND reputation $<$ 200,281,184 
+reputation $>$= 200 AND reputation $<$ 2000,549,590
+reputation $>$= 2000 AND reputation $<$= 5000,256,430 
+reputation $>$ 5000,319,1467
+reputation $>$ 20000,103,774
