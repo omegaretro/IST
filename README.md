@@ -12,7 +12,7 @@ Variability implementation, Reuse, Stack Overflow, Software Product Line, Latent
 Marco A. Paranhos Silva, Jonatas Ferreira Bastos, Paulo Anselmo da Mota Silveira Neto, Paulo Cesar Masiero, Eduardo Santana de Almeida
 
 ## Research Design
-
-https://github.com/omegaretro/StOv/blob/master/Diagrama1.png
+![Alt Text](https://github.com/omegaretro/StOv/blob/master/Diagrama1.png)
+![Alt Text](https://github.com/omegaretro/StOv/blob/master/Diagrama2.png)
 
 
