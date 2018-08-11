@@ -43,7 +43,7 @@ With RQ7 we intend to answer which are the questions answered and which are not 
 
 
 ## Research Design
-![Alt Text](https://github.com/omegaretro/StOv/blob/master/Diagrama1.png)
-![Alt Text](https://github.com/omegaretro/StOv/blob/master/Diagrama2.png)
+![Image of Diagram 1](https://github.com/omegaretro/StOv/blob/master/Diagrama1.png)
+![Image of Diagram 2](https://github.com/omegaretro/StOv/blob/master/Diagrama2.png)
 
-* teste
+
