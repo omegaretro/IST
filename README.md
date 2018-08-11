@@ -1,11 +1,15 @@
 # Variability Implementation at Stack Overflow: An Empirical Study
 
-## abstract
+## Abstract
 
 An empirical investigation aiming at understanding how the theme "variability implementation" is discussed by the community of Information Technology professionals who use the Stack Overflow site is presented. A list of 52 words related to this theme was defined based on the literature of the area and the opinion of experts. They were then used as the initial vocabulary for the algorithm that implements the Latent Dirichlet Allocation (LDA) to find the main topics related to variability implementation, as well as to validate the words in the list.   The most used words have been used to select questions containing them. These questions have been inspect manually and in the end 1962 were accepted. These 1962 questions were then analyzed with the objective of discover the mechanisms of variability implementation more discussed, less discussed and not discussed; what is the delay in responding to the formal questions on variability implementation and how long the discussions last; and finally, what is the profile of Stack Overflow users who asked and answered the questions retrieved, as well as the degree of confidence one can have about the quality of the questions and answers presented. 
 
 ## Keyword
 Variability implementation, Reuse, Stack Overflow, Software Product Line, Latent Dirichlet Allocation.
+
+
+## Authors
+Marco A. Paranhos Silva, Jonatas Ferreira Bastos, Paulo Anselmo da Mota Silveira Neto, Paulo Cesar Masiero, Eduardo Santana de Almeida
 
 
 ## Introduction
@@ -25,3 +29,7 @@ Therefore, the main objective of this paper is to analyze the data set of the St
 what are the  mechanisms of implementation of variability more discussed, less discussed and not discussed; what is the delay in answering to the formal questions on implementation of variability and how long the discussions last; and finally, what is the profile of StOv users who asked and answered the questions this type of questions. 
 
 This paper is organized as follows. Section \ref{background} presents  background information to the research problem main approaches. They describe  main functionalities of the site StOv and the main concepts of variability implementation. Section \ref{relatedwork} presents related work on researches with StOv, reuse and variability implementation.  Section \ref{lda} presents the experimental results obtained using LDA to recover topics. Section \ref{rq3} investigates the existence of variability implementation mechanisms in StOv, Section \ref{delay} analyses the time delay for the first answer to question on variability implementation mechanisms and the discussion duration, Section \ref{moda} instigates which are the words more frequent and less frequent used by the StOv community to write questions and answers related to variability implementation mechanisms, and Section \ref{profile} investigates de users profiles and how reliable are their questions and answers. A discussion of the results found and concluding remarks are presented in Sections \ref{discussion} and \ref{conclusion}, respectively.
+
+
+## Creation of offine datasets to support searches
+
