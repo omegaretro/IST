@@ -38,6 +38,10 @@ Marco A. Paranhos Silva, Jonatas Ferreira Bastos, Paulo Anselmo da Mota Silveira
 
 #### RQ2: What are the hot-topics that describe the unanswered questions related to variability implementation mechanisms in Stack Overflow?*
 
+* Table LDA RQ2,
+
+![Table LDA RQ2](RQ2/rq2.png)
+
 
 
 #### RQ3: Do mechanisms of variability exist that are  discussed by the Stack overflow community?
