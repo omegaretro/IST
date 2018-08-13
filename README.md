@@ -28,39 +28,15 @@ Marco A. Paranhos Silva, Jonatas Ferreira Bastos, Paulo Anselmo da Mota Silveira
 
 ## Reseach Questions
 
-#### RQ1: What are the hot-topics that describe the answered questions related to variability implementation mechanisms in Stack Overflow?
+In this paper we answer the following research questions:
 
-* Table LDA RQ1,
-
-![Table LDA RQ1](RQ1/rq1-1.png)
-
-
-
-#### RQ2: What are the hot-topics that describe the unanswered questions related to variability implementation mechanisms in Stack Overflow?*
-
-* Table LDA RQ2,
-
-![Table LDA RQ2](RQ2/rq2.png)
-
-
-
-#### RQ3: Do mechanisms of variability exist that are  discussed by the Stack overflow community?
-
-
-
-#### RQ4: What are the techniques related to variability implementation mechanisms most discussed in Stack overflow?
-
-
-
-#### RQ5: What are the mechanisms of variability implementation not discussed by the Stack overflow community?
-
-
-
-#### RQ6: How fast is the crowd at covering widely variability implementation mechanisms?
-
-
-
-#### RQ7: Can we rely on the stack overflow crowd?
+* RQ1: What are the hot-topics that describe the answered questions related to variability implementation mechanisms in Stack Overflow?
+* RQ2: What are the hot-topics that describe the unanswered questions related to variability implementation mechanisms in Stack Overflow?*
+* RQ3: Do mechanisms of variability exist that are  discussed by the Stack overflow community?
+* RQ4: What are the techniques related to variability implementation mechanisms most discussed in Stack overflow?
+* RQ5: What are the mechanisms of variability implementation not discussed by the Stack overflow community?
+* RQ6: How fast is the crowd at covering widely variability implementation mechanisms?
+* RQ7: Can we rely on the stack overflow crowd?
 
 ## The main contributions and results of this research are as follows:
 
