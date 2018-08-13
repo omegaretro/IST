@@ -13,36 +13,6 @@ Variability implementation, Reuse, Stack Overflow, Software Product Line, Latent
 ## Authors
 Marco A. Paranhos Silva, Jonatas Ferreira Bastos, Paulo Anselmo da Mota Silveira Neto, Paulo Cesar Masiero, Eduardo Santana de Almeida
 
-## Reseach Questions
-
-#### RQ1: What are the hot-topics that describe the answered questions related to variability implementation mechanisms in Stack Overflow?
-
-This RQ aims to investigate the topics that represent technical concerns in the questions with accepted answers that the community of Stack Overflow software developers faces in the implementation of variability.
-
-#### RQ2: What are the hot-topics that describe the unanswered questions related to variability implementation mechanisms in Stack Overflow?*
-
-This question considers unanswered questions because we are also interested in topics related to problems and techniques that do not have accepted answers. This indicates that Stack overflow developers face still unsolved difficulties in implementing variability.
-
-#### RQ3: Do mechanisms of variability exist that are  discussed by the Stack overflow community?
-
-In this question we will investigate if there are variability implementation mechanisms discussed by the Stack overflow community and what are they
-
-#### RQ4: What are the techniques related to variability implementation mechanisms most discussed in Stack overflow?
-
-With RQ4, we intend to identify whether variability implementation techniques are most found in the Stack Overflow developer community discussions.
-
-#### RQ5: What are the mechanisms of variability implementation not discussed by the Stack overflow community?
-
-With RQ5 we will define if the techniques of implementation of variability that are little discussed in Stack overflow represent those that in practice are also little used.
-
-#### RQ6: How fast is the crowd at covering widely variability implementation mechanisms?
-
-With this question we will analyze the speed with which the Stack overflow community answers the questions related to the implementation of variability.
-
-#### RQ7: Can we rely on the stack overflow crowd?
-
-With RQ7 we intend to answer which are the questions answered and which are not answered in the context of implementation of variability, as well as to understand what are the reasons for the questions not being answered.
-
 
 ## Research Design
 
@@ -55,3 +25,46 @@ With RQ7 we intend to answer which are the questions answered and which are not 
 ![Image of Diagram 2](Diagrama2.png)
 
 
+
+## Reseach Questions
+
+#### RQ1: What are the hot-topics that describe the answered questions related to variability implementation mechanisms in Stack Overflow?
+
+
+
+#### RQ2: What are the hot-topics that describe the unanswered questions related to variability implementation mechanisms in Stack Overflow?*
+
+
+
+#### RQ3: Do mechanisms of variability exist that are  discussed by the Stack overflow community?
+
+
+
+#### RQ4: What are the techniques related to variability implementation mechanisms most discussed in Stack overflow?
+
+
+
+#### RQ5: What are the mechanisms of variability implementation not discussed by the Stack overflow community?
+
+
+
+#### RQ6: How fast is the crowd at covering widely variability implementation mechanisms?
+
+
+
+#### RQ7: Can we rely on the stack overflow crowd?
+
+
+
+#### References
+
+M. D. Hoffman, D. M. Blei, F. Bach, Online learning for latent dirichlet allocation, NIPS’10, 2010, pp. 856–864.
+
+L. Mamykina, B. Manoim, M. Mittal, G. Hripcsak, B. Hartmann, Design lessons from the fastest q&a; a site in the west, ACM, 2011, pp. 2857–2866.
+
+C. Parnin, C. Treude, L. Grammel, Crowd documentation: Exploring the coverage and the dynamics of API discussions on
+stack overflow, Georgia Institute of Technology Technical Report GIT-CS-12-05 (2012).
+
+M. Linares-Vásquez, B. Dit, D. Poshyvanyk, An exploratory analysis of mobile development issues using stack overflow, 2013, pp. 93–96.
+
+C. Chen, Z. Xing, Mining technology landscape from stack overflow, ESEM ’16, 2016, pp. 14:1–14:10.
