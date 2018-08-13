@@ -70,6 +70,13 @@ Marco A. Paranhos Silva, Jonatas Ferreira Bastos, Paulo Anselmo da Mota Silveira
   * The average delay time for the first answer to the questions and the duration of the discussion when there is more than one answer.
   * The study on the degree of confidence in the Stack Overflow user group that asked questions or answered questions based on the reputation indicator of community members.
 
+## Future works
+
+New research works can be carried out in the future to continue this work and explore some points raised here but not deepened. One of them would be to use the list of words most used by the community of StOv on variability implementation as the basis for other studies, using other forums or even to guide discussions about the subject.
+
+Another interesting research would be to make an analysis of the selected questions and answers related to the variability implementation for feeling detection in software engineering.
+
+The third proposal of new studies would be to carry out a study to identify  specialists in software reusability among the users of StOv. In addition, a more qualitative exploratory study could be carried out with the specialists found to confirm the results found or to seek other information about this community and how it deals with reuse of software and, more specifically, with the variability implementation.
 
 ## References
 
