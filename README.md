@@ -47,11 +47,11 @@ With RQ7 we intend to answer which are the questions answered and which are not 
 ## Research Design
 
 * Diagrama-1, methodology used to respond to RQ1 and RQ2
-<br>
+
 ![Image of Diagram 1](Diagrama1.png)
 
 * Diagrama-2, methodology used to respond to RQ3 to RQ7
-<br>
+
 ![Image of Diagram 2](Diagrama2.png)
 
 
