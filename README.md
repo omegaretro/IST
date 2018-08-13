@@ -30,6 +30,10 @@ Marco A. Paranhos Silva, Jonatas Ferreira Bastos, Paulo Anselmo da Mota Silveira
 
 #### RQ1: What are the hot-topics that describe the answered questions related to variability implementation mechanisms in Stack Overflow?
 
+* Table LDA RQ1,
+
+![Table LDA RQ1](RQ1/rq1-1.png)
+
 
 
 #### RQ2: What are the hot-topics that describe the unanswered questions related to variability implementation mechanisms in Stack Overflow?*
