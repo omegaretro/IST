@@ -67,7 +67,7 @@ Marco A. Paranhos Silva, Jonatas Ferreira Bastos, Paulo Anselmo da Mota Silveira
     * Definition of a list of words that refer to variability implementation concepts and techniques that are most commonly used by the StOv developer community.
     * item Several research results (or findings) on the set of questions -- and answers -- selected, among which we highlight the following:
   
-        * Two groups of words were identified as those most used by the StOv community: one more conceptual and one more related to variability implementation techniques.
+    * Two groups of words were identified as those most used by the StOv community: one more conceptual and one more related to variability implementation techniques.
       * The average delay time for the first answer to the questions and the duration of the discussion when there is more than one answer.
       * The study on the degree of confidence in the StOv user group that asked questions or answered questions based on the reputation indicator of community members.
 
