@@ -244,6 +244,9 @@ To answer RQ3, we combine the words according to the Table below and thus retrie
 
 We developed a dataset in [SQL](RQ6/mps08.sql) so that we can answer the RQ6 and compare the algorithms in [PHP](RQ6/estudo.php)  to determine the results.
 
+Finishing then we have the database [usuários](RQ7/usuarios.sql) that was used to respond to RQ7, to analyze the data we use the following algorithms: [resp.php](RQ7/resp.php), [resp1.php](RQ7/resp1.php) and [resp2.php](RQ7/resp2.php). 
+
+
 ## References
 
 M. D. Hoffman, D. M. Blei, F. Bach, Online learning for latent dirichlet allocation, NIPS’10, 2010, pp. 856–864.
