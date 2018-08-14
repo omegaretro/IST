@@ -38,18 +38,24 @@ In this paper we answer the following research questions:
 * RQ6: How fast is the crowd at covering widely variability implementation mechanisms?
 * RQ7: Can we rely on the stack overflow crowd?
 
-|aggregation| ahead| aspectorientedprogramming| aspectweaving| 
-|bindingtime| collectionofvariants| commonality| composition| 
-|conditionalcompilation| conditiononconstant| conditiononvariable| 
-|configuration| constraintprogramming| decisionmodel| delegation|
-|derivation| designfeatures| dynamicclassloading| dynamiclinklibraries| 
-|dynamicvariability| featuredependencies| featureide| featureinteraction|
-|featuremodel| featuremodeling| foda| fop| frames| framework| 
-|functionalityforbinding| ifdef| ifndef| inheritance| instatiation| 
-|interface| makefile| modularfeature| operationaldependencies| 
-|overloading| parameterization| productfamily| productline| reflection| 
-|reuse| staticlibraries| variability| variabilityinspace| variabilitymanagement| 
-|variabilityscope| variant| variantfeature| variationpoint|
+
+List of 52 initial Words
+
+| Words | 
+:------------: |
+|aggregation, ahead, aspectorientedprogramming, aspectweaving| 
+|bindingtime, collectionofvariants, commonality, composition, conditionalcompilation| 
+|conditiononconstant, conditiononvariable, configuration, constraintprogramming, decisionmodel| 
+|delegation, derivation, designfeatures, dynamicclassloading, dynamiclinklibraries| 
+|dynamicvariability, featuredependencies, featureide, featureinteraction, featuremodel|
+|featuremodeling, foda, fop, frames, framework| 
+|functionalityforbinding, ifdef, ifndef, inheritance, instatiation|
+|interface, makefile, modularfeature, operationaldependencies, overloading| 
+|parameterization, productfamily, productline, reflection, reuse| 
+|staticlibraries, variability, variabilityinspace, variabilitymanagement, variabilityscope|  
+|variant, variantfeature, variationpoint|
+
+
 ## References
 
 M. D. Hoffman, D. M. Blei, F. Bach, Online learning for latent dirichlet allocation, NIPS’10, 2010, pp. 856–864.
