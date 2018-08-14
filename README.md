@@ -66,6 +66,183 @@ The results of LDA for RQ 1 and 2 can be seen in the Tables:
 ![Table RQ2](RQ2/rq2.png)
 
 
+| Word     |  Combination |
+:------------: | :------------ |
+|“commonality”   |“variant”     |                    
+|“commonality”   |“variant”     |                      
+|“commonality”    |“aggregation”      |              
+|“commonality”     |“parameterization”      |     
+|“commonality”    |“reflection”             |          
+|“commonality”    |“decision model”        |      
+|“commonality”     |“feature interaction”     |   
+|“commonality”    |“feature dependencies”     |
+|“commonality”   |“feature model”      |          
+|“commonality”   |“product line”    |               
+|“commonality”   |“product family”     |          
+|“commonality”  |“variation point”     |           
+|“commonality”   |“conditional compilation”  |
+|“commonality”    |“design pattern” |               
+|“commonality”    |“ifdef”  |                              
+|“commonality”     |“ifndef”       |
+|   |   |
+|“variability”    |“aggregation”      |              
+|“variability”     |“parameterization”      |     
+|“variability”    |“reflection”             |          
+|“variability”    |“decision model”        |      
+|“variability”     |“feature interaction”     |   
+|“variability”    |“feature dependencies”     |
+|“variability”   |“feature model”      |          
+|“variability”   |“product line”    |               
+|“variability”   |“product family”     |          
+|“variability”  |“variation point”     |           
+|“variability”   |“conditional compilation”  |
+|“variability”    |“design pattern” |               
+|“variability”    |“ifdef”  |                              
+|“variability”     |“ifndef”       |
+|   |   |
+|“variability”   |“variant”     |                      
+|“variability”    |“aggregation”      |              
+|“variability”     |“parameterization”      |     
+|“variability”    |“reflection”             |          
+|“variability”    |“decision model”        |      
+|“variability”     |“feature interaction”     |   
+|“variability”    |“feature dependencies”     |
+|“variability”   |“feature model”      |          
+|“variability”   |“product line”    |               
+|“variability”   |“product family”     |          
+|“variability”  |“variation point”     |           
+|“variability”   |“conditional compilation”  |
+|“variability”    |“design pattern” |               
+|“variability”    |“ifdef”  |                              
+|“variability”     |“ifndef”       |                      
+|   |   |
+|“variant”    |“aggregation”   |                 
+|“variant”   |“delegation”    |                   
+|“variant”     |“parameterization” |           
+|“variant”    |“reflection”      |              
+|“variant”   |“decision model”       |        
+|“variant”     |“feature interaction”     |   
+|“variant”    |“feature dependencies”     |
+|“variant”   |“feature model”      |            
+|“variant”   |“product line”      |               
+|“variant”   |“product family”   |              
+|“variant”  |“variation point”  |                
+|“variant”   |“conditional compilation”  |
+|“variant”    |“design pattern”      |          
+|“variant”    |“ifdef”       |                        
+|“variant”     |“ifndef”         |                     
+|   |   |
+|“aggregation”   |“delegation”     |                  
+|“aggregation”     |“parameterization”|            
+|“aggregation”    |“reflection”          |             
+|“aggregation t”   |“decision model”       |         
+|“aggregation”     |“feature interaction”   |        
+|“aggregation”    |“feature dependencies” |       
+|“aggregation”   |“feature model”    |                
+|“aggregation”   |“product line”      |                 
+|“aggregation”   |“product family”    |              
+|“aggregation”  |“variation point”      |             
+|“aggregation”   |“conditional compilation” |   
+|“aggregation”    |“design pattern” |                
+|“aggregation”    |“ifdef”      |                           
+|“aggregation”     |“ifndef”      |                        
+|   |   |
+|“delegation”     |“parameterization”    |         
+|“delegation”    |“reflection”           |             
+|“delegation”   |“decision model”         |         
+|“delegation”     |“feature interaction”   |        
+|“delegation”    |“feature dependencies”  |      
+|“delegation”   |“feature model”      |               
+|“delegation”   |“product line”     |                   
+|“delegation”   |“product family”    |              
+|“delegation”  |“variation point”      |             
+|“delegation”   |“conditional compilation”     |
+|“delegation”    |“design pattern”     |           
+|“delegation”    |“ifdef”  |                               
+|“delegation”     |“ifndef”     |                         
+|    |  |
+|“parameterization”    |“reflection”      |                  
+|“parameterization”   |“decision model”           |      
+|“parameterization”     |“feature interaction”   |        
+|“parameterization”    |“feature dependencies” |       
+|“parameterization”   |“feature model”       |              
+|“parameterization”   |“product line”       |                
+|“parameterization”   |“product family”     |               
+|“parameterization”  |“variation point”     |                
+|“parameterization”   |“conditional compilation” |    
+|“parameterization”    |“design pattern”     |              
+|“parameterization”    |“ifdef”     |                             
+|“parameterization”     |“ifndef”     |                          
+|   |   |
+"reflection”   |“decision model”         |         
+|“reflection”     |“feature interaction”       |    
+|“reflection”    |“feature dependencies”       | 
+|“reflection”   |“feature model”          |           
+|“reflection”   |“product line”        |                
+|“reflection”   |“product family”        |            
+|“reflection”  |“variation point”        |             
+|“reflection”   |“conditional compilation” |    
+|“reflection”    |“design pattern”   |                
+|“reflection”    |“ifdef”       |                           
+|“reflection”     |“ifndef”         |                      
+|   |   |
+|“decision model”     |“feature interaction”   |        
+|“decision model”    |“feature dependencies”     |   
+|“decision model”   |“feature model”          |           
+|“decision model”   |“product line”      |                  
+|“decision model”   |“product family”         |           
+|“decision model”  |“variation point”              |       
+|“decision model”   |“conditional compilation”      |
+|“decision model”    |“design pattern”    |               
+|“decision model”    |“ifdef”     |                             
+|“decision model”     |“ifndef”     |                         
+|   |   |
+|“feature dependencies”   |“feature model”      |               
+|“feature dependencies”   |“product line”       |                 
+|“feature dependencies”   |“product family”      |              
+|“feature dependencies”  |“variation point”        |             
+|“feature dependencies”   |“conditional compilation” |    
+|“feature dependencies”    |“design pattern”       |            
+|“feature dependencies”    |“ifdef”              |                    
+|“feature dependencies”     |“ifndef”            |                   
+|    |   |
+|“feature model”   |“product line”  |                      
+|“feature model”   |“product family” |                   
+|“feature model”  |“variation point”    |                 
+|“feature model”   |“conditional compilation” |    
+|“feature model”    |“design pattern”    |               
+|“feature model”    |“ifdef”   |                               
+|“feature model”     |“ifndef”  |                             
+|   |   |
+|“product line”   |“product family”  |                    
+|“product line”  |“variation point”       |                
+|“product line”   |“conditional compilation”    |   
+|“product line”    |“design pattern”         |            
+|“product line”    |“ifdef”               |                     
+|“product line ”     |“ifndef”            |                     
+|   |   |
+|“product family”  |“variation point”   |                    
+|“product family”   |“conditional compilation”  |     
+|“product family”    |“design pattern”         |            
+|“product family”    |“ifdef”              |                     
+|“product family”     |“ifndef”            |                     
+|  |   |
+|“variation point”   |“conditional compilation”       |
+|“variation point”    |“design pattern”        |             
+|“variation point”    |“ifdef”    |                            
+|“variation point”   |“conditional compilation” |
+|   |   |
+|“conditional compilation”    |“design pattern”      |              
+|“conditional compilation”    |“ifdef”     |                               
+||“conditional compilation”     |“ifndef”  |                               
+|     |    |      
+||“design pattern”    |“ifdef”  |                                 
+||“design pattern”     |“ifndef”  |                              
+|    |   |
+||“ifdef”     |“ifndef”|                                
+
+
+
 ## References
 
 M. D. Hoffman, D. M. Blei, F. Bach, Online learning for latent dirichlet allocation, NIPS’10, 2010, pp. 856–864.
