@@ -39,11 +39,11 @@ In this paper we answer the following research questions:
 * RQ7: Can we rely on the stack overflow crowd?
 
 
-List of 52 initial Words
 
-| Words | 
+
+| List of 52 initial Words | 
 :------------: |
-|aggregation, ahead, aspectorientedprogramming, aspectweaving| 
+|aggregation, ahead, aspectorientedprogramming, aspectweaving, variant| 
 |bindingtime, collectionofvariants, commonality, composition, conditionalcompilation| 
 |conditiononconstant, conditiononvariable, configuration, constraintprogramming, decisionmodel| 
 |delegation, derivation, designfeatures, dynamicclassloading, dynamiclinklibraries| 
@@ -53,7 +53,7 @@ List of 52 initial Words
 |interface, makefile, modularfeature, operationaldependencies, overloading| 
 |parameterization, productfamily, productline, reflection, reuse| 
 |staticlibraries, variability, variabilityinspace, variabilitymanagement, variabilityscope|  
-|variant, variantfeature, variationpoint|
+|variantfeature, variationpoint|
 
 
 ## References
