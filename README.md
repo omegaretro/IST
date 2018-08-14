@@ -63,7 +63,7 @@ The results of LDA for RQ 1 and 2 can be seen in the Tables:
 
 * Table - RQ2
 
-![Table RQ2](rq2.png)
+![Table RQ2](RQ2/rq2.png)
 
 
 ## References
