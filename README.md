@@ -39,7 +39,7 @@ In this paper we answer the following research questions:
 * RQ7: Can we rely on the stack overflow crowd?
 
 
-[On-line LDA programs](online_lda_python-master.zip)
+To answer RQ1 and 2 we use [On-line LDA programs](online_lda_python-master.zip), and the following list of words as initial dictionary
 
 | List of 52 initial Words | 
 :------------: |
@@ -55,6 +55,15 @@ In this paper we answer the following research questions:
 |staticlibraries, variability, variabilityinspace, variabilitymanagement, variabilityscope|  
 |variantfeature, variationpoint|
 
+The results of LDA for RQ 1 and 2 can be seen in the Tables: 
+
+* Table - RQ1
+
+![Table RQ1](rq1.png)
+
+* Table - RQ1
+
+![Table RQ1](rq1.png)
 
 
 ## References
