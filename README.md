@@ -65,7 +65,7 @@ The results of LDA for RQ 1 and 2 can be seen in the Tables:
 
 ![Table RQ2](RQ2/rq2.png)
 
-To answer RQ3, we combine the words according to the Table below and thus retrieve from the dataset the questions that result in the [Result.xml] (result.xml) file containing the questions retrieved.
+To answer RQ3, we combine the words according to the Table below and thus retrieve from the dataset the questions that result in the [Result.xml](result.xml) file containing the questions retrieved.
 
 | Word     |  Combination |
 :------------: | :------------ |
