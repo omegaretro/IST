@@ -66,6 +66,7 @@ The results of LDA for RQ 1 and 2 can be seen in the Tables:
 ![Table RQ2](RQ2/rq2.png)
 
 To answer RQ3, we combine the words according to the Table below and thus retrieve from the dataset the questions that result in the [Result.xml] (result.xml) file containing the questions retrieved.
+
 | Word     |  Combination |
 :------------: | :------------ |
 |“commonality”   |“variant”     |                    
@@ -235,7 +236,7 @@ To answer RQ3, we combine the words according to the Table below and thus retrie
 |“conditional compilation”    |“design pattern”      |              
 |“conditional compilation”    |“ifdef”     |                               
 |“conditional compilation”     |“ifndef”  |                               
-|     |    |      
+|   |    |      
 |“design pattern”    |“ifdef”  |                                 
 |“design pattern”     |“ifndef”  |                              
 |    |   |
