@@ -234,12 +234,12 @@ The results of LDA for RQ 1 and 2 can be seen in the Tables:
 |   |   |
 |“conditional compilation”    |“design pattern”      |              
 |“conditional compilation”    |“ifdef”     |                               
-||“conditional compilation”     |“ifndef”  |                               
+|“conditional compilation”     |“ifndef”  |                               
 |     |    |      
-||“design pattern”    |“ifdef”  |                                 
-||“design pattern”     |“ifndef”  |                              
+|“design pattern”    |“ifdef”  |                                 
+|“design pattern”     |“ifndef”  |                              
 |    |   |
-||“ifdef”     |“ifndef”|                                
+|“ifdef”     |“ifndef”|                                
 
 
 
