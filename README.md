@@ -22,7 +22,7 @@ Marco A. Paranhos Silva, Jonatas Ferreira Bastos, Paulo Anselmo da Mota Silveira
 
 * Diagrama-2, methodology used to respond to RQ3 to RQ7
 
-![Image of Diagram 2](diagn22.png)
+![Image of Diagram 2](diagn2.png)
 
 
 
