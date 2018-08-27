@@ -258,3 +258,6 @@ stack overflow, Georgia Institute of Technology Technical Report GIT-CS-12-05 (2
 M. Linares-Vásquez, B. Dit, D. Poshyvanyk, An exploratory analysis of mobile development issues using stack overflow, 2013, pp. 93–96.
 
 C. Chen, Z. Xing, Mining technology landscape from stack overflow, ESEM ’16, 2016, pp. 14:1–14:10.
+
+[M. A. P. Silva, Variability implementation at stack overflow: An empirical study, Master’s thesis, Federal University of Bahia
+(2018)](diser.pdf).
