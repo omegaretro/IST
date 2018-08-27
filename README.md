@@ -144,7 +144,7 @@ To answer RQ3, we combine the words according to the Table below and thus retrie
 |“aggregation”  |“variation point”      |             
 |“aggregation”   |“conditional compilation” |   
 |“aggregation”    |“design pattern” |                
-|“aggregation”    |“ifdef”      |                           
+https://github.com/omegaretro/IST/blob/master/Marco_msc_dissertation.pdf|“aggregation”    |“ifdef”      |                           
 |“aggregation”     |“ifndef”      |                        
 |   |   |
 |“delegation”     |“parameterization”    |         
@@ -260,4 +260,4 @@ M. Linares-Vásquez, B. Dit, D. Poshyvanyk, An exploratory analysis of mobile de
 C. Chen, Z. Xing, Mining technology landscape from stack overflow, ESEM ’16, 2016, pp. 14:1–14:10.
 
 [M. A. P. Silva, Variability implementation at stack overflow: An empirical study, Master’s thesis, Federal University of Bahia
-(2018)](diser.pdf).
+(2018)](Marco_msc_dissertation.pdf).
