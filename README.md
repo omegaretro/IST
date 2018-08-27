@@ -144,7 +144,7 @@ To answer RQ3, we combine the words according to the Table below and thus retrie
 |“aggregation”  |“variation point”      |             
 |“aggregation”   |“conditional compilation” |   
 |“aggregation”    |“design pattern” |                
-https://github.com/omegaretro/IST/blob/master/Marco_msc_dissertation.pdf|“aggregation”    |“ifdef”      |                           
+|“aggregation” |“ifdef”      |                           
 |“aggregation”     |“ifndef”      |                        
 |   |   |
 |“delegation”     |“parameterization”    |         
