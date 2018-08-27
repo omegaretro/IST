@@ -25,7 +25,6 @@ Marco A. Paranhos Silva, Jonatas Ferreira Bastos, Paulo Anselmo da Mota Silveira
 ![Image of Diagram 2](diagn2.png)
 
 
-
 ## Reseach Questions
 
 In this paper we answer the following research questions:
