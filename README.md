@@ -261,3 +261,4 @@ C. Chen, Z. Xing, Mining technology landscape from stack overflow, ESEM ’16, 2
 
 [M. A. P. Silva, Variability implementation at stack overflow: An empirical study, Master’s thesis, Federal University of Bahia
 (2018)](Marco_msc_dissertation.pdf).
+  
