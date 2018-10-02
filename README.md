@@ -18,11 +18,11 @@ Marco A. Paranhos Silva, Jonatas Ferreira Bastos, Paulo Anselmo da Mota Silveira
 
 * Diagrama-1, methodology used to respond to RQ1 and RQ2
 
-![Image of Diagram 1](diagn1.jpg)
+![Image of Diagram 1](method1.png)
 
 * Diagrama-2, methodology used to respond to RQ3 to RQ7
 
-![Image of Diagram 2](diagn2.jpg)
+![Image of Diagram 2](method2.png)
 
 
 ## Reseach Questions
