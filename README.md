@@ -1,6 +1,6 @@
 # Variability Implementation: An Empirical Study of Stack Overflow Posts
 
-This web page presents the supplementary material of the paper *Variability Implementation at Stack Overflow: An Empirical Study*.
+This web page presents the supplementary material of the paper *Variability Implementation: An Empirical Study of Stack Overflow Posts*.
 
 ## Abstract
 
