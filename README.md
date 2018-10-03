@@ -4,7 +4,26 @@ This web page presents the supplementary material of the paper *Variability Impl
 
 ## Abstract
 
-An empirical investigation aiming at understanding how the theme "variability implementation" is discussed by the community of Information Technology professionals who use the Stack Overflow site is presented. A list of 52 words related to this theme was defined based on the literature of the area and the opinion of experts. They were then used as the initial vocabulary for the algorithm that implements the Latent Dirichlet Allocation (LDA) to find the main topics related to variability implementation, as well as to validate the words in the list.   The most used words have been used to select questions containing them. These questions have been inspect manually and in the end 1962 were accepted. These 1962 questions were then analyzed with the objective of discover the mechanisms of variability implementation more discussed, less discussed and not discussed; what is the delay in responding to the formal questions on variability implementation and how long the discussions last; and finally, what is the profile of Stack Overflow users who asked and answered the questions retrieved, as well as the degree of confidence one can have about the quality of the questions and answers presented. 
+Context: Stack Overflow is an online platform where users can share knowledge by asking or answering questions.
+Software developers use this type of information source to solve doubts and share knowledge. Analyzing its database
+content can help to better understand the thoughts, doubts, and needs of software developers. Stack Overflow has
+become an important knowledge repository to understand how software engineering techniques are used in practice.
+Objective: Analyze the dataset of the Stack Overflow platform to identify and analyze what developers and users
+have commented, asked and answered about variability implementation mechanisms. This is done based on a set of
+seven research questions.
+Method: A list of 52 words related to this theme was defined based on the literature and the knowledge of the
+authors of this paper. They were then used as the initial input vocabulary for the Latent Dirichlet Allocation algorithm
+to find the main topics related to variability implementation, as well as to validate the words in the list. The most used
+words and other selected have been used to retrieve questions containing them. These have been inspected manually
+and in the end 1962 were chosen. These questions were then analyzed to answer the seven research questions.
+Results: It is shown what are the variability implementation mechanisms more discussed, less discussed and not
+discussed; what is the delay in responding to the formal questions on variability implementation; how long the discussions 
+last; what is the profile of Stack Overflow users who asked and answered the questions retrieved, as well as
+the degree of confidence one can have about the quality of the questions and answers presented.
+Conclusion: Findings show that a small part of the Stack Overflow community is aware of variability implementation mechanisms. Most of the questions of those who are aware are related to programming-in-the-small and refer
+to conditional compilation (e.g. ifdef, ifndef commands), reuse and software product lines. The results may motivate
+the need for an educational effort to raise the level of knowledge of practitioners regarding variability implementation
+mechanisms.
 
 ## Keyword
 Variability implementation, Reuse, Stack Overflow, Software Product Line, Latent Dirichlet Allocation.
