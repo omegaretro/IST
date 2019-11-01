@@ -24,29 +24,22 @@ Marco A. Paranhos Silva, Jonatas Ferreira Bastos, Paulo Anselmo da Mota Silveira
 
 ## Research Design
 
-* Diagrama-1, methodology used to respond to RQ1 and RQ2
+* Diagrama-1, methodology used
 
-![Image of Diagram 1](method1.png)
+![Image of Diagram 1](method1.jpg)
 
-* Diagrama-2, methodology used to respond to RQ3 to RQ7
-
-![Image of Diagram 2](method2.png)
 
 
 ## Reseach Questions
 
 In this paper we answer the following research questions:
 
-* RQ1: What are the hot-topics that describe the answered questions related to variability implementation mechanisms in Stack Overflow?
-* RQ2: What are the hot-topics that describe the unanswered questions related to variability implementation mechanisms in Stack Overflow?*
-* RQ3: Do mechanisms of variability exist that are  discussed by the Stack overflow community?
-* RQ4: What are the techniques related to variability implementation mechanisms most discussed in Stack overflow?
-* RQ5: What are the mechanisms of variability implementation not discussed by the Stack overflow community?
-* RQ6: How fast is the crowd at covering widely variability implementation mechanisms?
-* RQ7: Can we rely on the stack overflow crowd?
+* RQ1: Are variability implementation mechanisms discussed in StOv?
+* RQ2: Which variability implementation mechanisms are most discussed in StOv?
+* RQ3: Which variability implementation mechanisms are not discussed in StOv?
+* RQ4: How fast is the crowd covering variability implementation mechanism?
+* RQ5: Can we rely on the StOv crowd?
 
-
-To answer RQ1 and 2 we use [On-line LDA programs](online_lda_python-master.zip), and the following list of words as initial dictionary
 
 | List of 52 initial Words | 
 :------------: |
@@ -62,17 +55,8 @@ To answer RQ1 and 2 we use [On-line LDA programs](online_lda_python-master.zip),
 |staticlibraries, variability, variabilityinspace, variabilitymanagement, variabilityscope|  
 |variantfeature, variationpoint|
 
-The results of LDA for RQ 1 and 2 can be seen in the Tables: 
 
-* Table - RQ1
-
-![Table RQ1](RQ1/rq1-1.png)
-
-* Table - RQ2
-
-![Table RQ2](RQ2/rq2.png)
-
-To answer RQ3, we combine the words according to the Table below and thus retrieve from the dataset the questions that result in the [Result.xml](result.xml) file containing the questions retrieved.
+To answer RQ's, we combine the words according to the Table below and thus retrieve from the dataset the questions that result in the [Result.xml](result.xml) file containing the questions retrieved.
 
 | Word     |  Combination |
 :------------: | :------------ |
@@ -249,9 +233,9 @@ To answer RQ3, we combine the words according to the Table below and thus retrie
 |    |   |
 |“ifdef”     |“ifndef”|                                
 
-We developed a dataset in [SQL](RQ6/mps08.sql) so that we can answer the RQ6 and compare the algorithms in [PHP](RQ6/estudo.php)  to determine the results.
+We developed a dataset in [SQL](RQ6/mps08.sql) so that we can answer the RQ4 and compare the algorithms in [PHP](RQ6/estudo.php)  to determine the results.
 
-Finishing then we have the database [users](RQ7/usuarios.sql) that was used to respond to RQ7, to analyze the data we use the following algorithms: [resp.php](RQ7/resp.php), [resp1.php](RQ7/resp1.php) and [resp2.php](RQ7/resp2.php). 
+Finishing then we have the database [users](RQ7/usuarios.sql) that was used to respond to RQ5, to analyze the data we use the following algorithms: [resp.php](RQ7/resp.php), [resp1.php](RQ7/resp1.php) and [resp2.php](RQ7/resp.php). 
 
 
 ## References
