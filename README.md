@@ -26,7 +26,7 @@ Marco A. Paranhos Silva, Jonatas Ferreira Bastos, Paulo Anselmo da Mota Silveira
 
 * Diagrama-1, methodology used
 
-![Image of Diagram 1](method1.jpg)
+![Image of Diagram 1](IST%20Stackoverflow-Figure.jpg)
 
 
 
