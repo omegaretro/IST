@@ -1,0 +1,133 @@
+commonality
+variability
+aggregation 
+delegation
+derivation
+inheritance
+parameterization
+aspects
+overloading
+foda
+reflection
+makefile
+ifdef
+ifndef
+variant
+populate
+variability identification
+binding time
+variability modeling
+product derivation
+variability evolution
+decision model
+feature interaction
+feature dependencies
+feature model
+feature modeling
+feature ide
+optimization of variability
+multilevel feature trees
+dynamic class loading
+static libraries
+dynamic link libraries
+conditional compilation
+aspect oriented programming
+software variability
+variability management
+product line
+product family
+feature oriented programming
+variant feature
+product architecture derivation
+collection of variants
+functionality forbinding
+condition on variable
+code fragment superimposition
+variant component specializations
+optional component specializations
+variant component implementations
+condition on constant
+condition on variable
+code fragment superimposition
+variation point
+feature binding units
+runtime variation points
+feature model analyzer
+dynamic variability
+modular feature
+modular implementation
+cross cutting feature
+operational feature dependency
+separation of feature dependencies
+design features
+capacitive features
+resistive features
+variability inspace
+variability constraints
+variability dependencies
+operational dependencies
+constraint programming
+variability scope
+feature binding units
+modification of variants
+modification of variation points
+static variability models
+variability implementation
+configuration
+interface
+framework
+reuse
+instatiation
+ahead
+composition
+variant
+frames
+variant point
+spl
+dspl
+aop
+design patterns
+dependency injection
+compile time
+link time
+initialization time
+run time
+update-time
+post-runtime
+binding site
+modularity
+hand coded
+applicability
+clarity
+consequences
+feature mandatory
+feature optional
+feature alternative
+dynamic class loading
+approach comparison summary
+flexibility
+efficienc
+binary compatibility
+separation of concerns
+scalability
+achieved traceabilit
+abstract factory
+data controlled variation
+module replacement
+modeling variability
+aspect oriented programming
+frames reflection
+variability scope
+build time
+component oriented architectures
+feature to code mapping
+information hiding
+interface separation
+replacement of components
+omission of components 
+addition of components
+extension points
+strategy pattern
+feature oriented domain analysis
+dependency model
+
