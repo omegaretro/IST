@@ -40,7 +40,8 @@ In this paper we answer the following research questions:
 * RQ4: How fast is the crowd covering variability implementation mechanism?
 * RQ5: Can we rely on the StOv crowd?
 
-In the file [wlist123](wlist123.txt) there is a list of the 123 initial words of the study.
+At the beginning of the research, we selected 132 words by reading files that can be observed in this [link](wlist123.txt) after having done an analysis of the words we chose 52 of them to carry out the study
+
 
 | List of 52 initial Words | 
 :------------: |
